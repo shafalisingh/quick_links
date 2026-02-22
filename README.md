@@ -227,7 +227,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Shafali Singh**
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/shafali-singh/)
 
 
