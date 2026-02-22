@@ -228,8 +228,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shafali-singh/)
-- GitHub: [@yourusername](https://github.com/shafalisingh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shafali-singh/)
+
 
 ## 🙏 Acknowledgments
 
