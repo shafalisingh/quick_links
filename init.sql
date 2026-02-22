@@ -1,4 +1,3 @@
-cat > init.sql << 'EOF'
 CREATE TABLE IF NOT EXISTS urls (
     id SERIAL PRIMARY KEY,
     long_url TEXT NOT NULL,
@@ -14,4 +13,3 @@ CREATE TABLE IF NOT EXISTS clicks (
 );
 
 CREATE INDEX IF NOT EXISTS idx_clicks_url_id ON clicks(url_id);
-EOF

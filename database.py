@@ -1,5 +1,5 @@
 import asyncpg
-
+import os
 # Database connection pool
 db_pool = None
 

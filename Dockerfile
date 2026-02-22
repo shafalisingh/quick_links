@@ -8,8 +8,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY main.py .
 COPY models.py .      
 COPY database.py .      
-COPY utils.py .         
+COPY utils.py . 
+COPY services/ services/       
 COPY static/ static/
+
 
 EXPOSE 8000
 
