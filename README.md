@@ -80,7 +80,7 @@ user_agent      TEXT
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/quicklink.git
+git clone https://github.com/shafalisingh/quick_links.git
 cd quicklink
 ```
 
