@@ -224,15 +224,12 @@ quicklink/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shafali-singh/)
+- GitHub: [@yourusername](https://github.com/shafalisingh)
 
 ## 🙏 Acknowledgments
 
