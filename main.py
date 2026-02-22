@@ -9,6 +9,7 @@ from models import URLRequest
 from database import init_db, close_db, create_short_url, get_long_url, record_click
 from utils import encode_base36, decode_base36
 import asyncpg
+import os
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # Startup
@@ -49,7 +50,15 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 @app.get("/app")
 async def serve_frontend():
     return FileResponse("static/index.html")
+@app.get("/style.css")
+async def serve_css():
+    return FileResponse("static/style.css")
+
+@app.get("/script.js")
+async def serve_js():
+    return FileResponse("static/script.js")
 # Home Page
+
 @app.get("/")
 async def root():
     return {"message": "QuickLink API is running"}
